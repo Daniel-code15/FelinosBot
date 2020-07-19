@@ -6,4 +6,5 @@
 * Podem ser modificados na pasta de comandos
 ### Uso dos comandos:
 
-* Exemplo: [Imagem](https://prnt.sc/tkiaca)
+* Exemplo: [Aqui](https://prnt.sc/tkiaca)
+* Prefixo-Padrão: *
