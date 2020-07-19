@@ -6,4 +6,4 @@
 * Podem ser modificados na pasta de comandos
 ### Uso dos comandos:
 
-* (prefix)<filename>
+* (prefix) <filename>
