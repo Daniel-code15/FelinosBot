@@ -6,4 +6,4 @@
 * Podem ser modificados na pasta de comandos
 ### Uso dos comandos:
 
-* (prefix) <filename>
+* Exemplo: [Imagem](https://prnt.sc/tkiaca)
